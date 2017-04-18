@@ -1,0 +1,2 @@
+# fastslice
+Go Threadsafe Slice
